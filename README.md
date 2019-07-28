@@ -37,6 +37,9 @@ https://github.com/paulo-correia/Linux_Apache-Http/blob/master/HTACCESS.md
 ## SERVER STATUS
 https://github.com/paulo-correia/Linux_Apache-Http/blob/master/SERVER_STATUS.md
 
+## SSL
+https://github.com/paulo-correia/Linux_Apache-Http/blob/master/SSL.md
+
 ## VHOSTS
 https://github.com/paulo-correia/Linux_Apache-Http/blob/master/VHOSTS.md
 
