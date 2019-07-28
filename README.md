@@ -29,3 +29,14 @@ Reinicie o Apache com o comando:
 
 Teste abrindo o IP do servidor/máquina num navegador
 
+### Opcionais
+
+## HTACCESS
+https://github.com/paulo-correia/Linux_Apache-Http/blob/master/HTACCESS.md
+
+## SERVER STATUS
+https://github.com/paulo-correia/Linux_Apache-Http/blob/master/SERVER_STATUS.md
+
+## VHOSTS
+https://github.com/paulo-correia/Linux_Apache-Http/blob/master/VHOSTS.md
+
