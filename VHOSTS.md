@@ -72,6 +72,7 @@ Criar o arquivo **vhosts.conf** em **/etc/httpd/conf.d** com o seguinte conteúd
 Criar a pasta log com o comando:
 
 `mkdir /var/www/usuário/log`
+
 Reiniciar o Apache com o comando:
 
 `service httpd restart`
