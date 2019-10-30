@@ -67,6 +67,7 @@ Para criar o arquivo .htpasswd use o seguinte comando:
 `htpasswd -c -b .htpasswd usuario senha`
 
 Exemplo de **.htaccess** que faz redirecionamento de tudo o que **não** é arquivo ou diretório para o **index.php**, este é muito utilizado para URL Amigável:
+```
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
@@ -76,8 +77,3 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 </IfModule>
 ```
-
-
-```
-
-
