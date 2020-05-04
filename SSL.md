@@ -5,6 +5,7 @@ Habilita o certificado de sites, SSL na porta **443**
 Como **root** ative o módulo SSL usando o comando:
 
 `a2enmod ssl`
+
 Como root reinicie o Apache usando o comando:
 
 `service apache2 restart`
