@@ -1,5 +1,8 @@
 ## Htaccess
 
+## No Docker (Alpine Linux)
+[Docker_Apache_HTACCESS](https://github.com/paulo-correia/Docker_Apache_Htaccess)
+
 ### Debian
 Como **root** edite o arquivo **/etc/apache2/apache2.conf**
 
