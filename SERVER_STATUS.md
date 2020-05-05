@@ -2,6 +2,9 @@
 
 É uma página HTML onde são apresentadas as estatísticas atuais do servidor, de forma facilmente legível.
 
+## No Docker (Alpine Linux)
+[Docker_Apache_Server Status](https://github.com/paulo-correia/Docker_Apache_Server_Status)
+
 ### Debian
 Como root **edite** o arquivo **/etc/apache2/mods-enabled/status.conf**
 
